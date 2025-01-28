@@ -1,4 +1,5 @@
 # Learngit
 main1
-feature
-something else
+feature1
+main2
+feature2
